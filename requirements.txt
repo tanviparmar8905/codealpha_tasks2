@@ -1,0 +1,9 @@
+flask 
+flask-sqlalchemy 
+flask-login 
+pandas 
+werkzeug
+yfinance 
+matplotlib 
+plotly
+dash
